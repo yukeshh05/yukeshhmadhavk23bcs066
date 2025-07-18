@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Inception",
+    "tagline": "Your mind is the scene of the crime.",
+    "vote_average": 8.3,
+    "overview": "A thief with the ability to enter people's dreams and steal secrets.",
+    "release_date": "2010-07-16",
+    "runtime": 148
+  },
+  {
+    "id": "2",
+    "title": "The Matrix",
+    "tagline": "Reality is a thing of the past.",
+    "vote_average": 8.1,
+    "overview": "A computer hacker learns about the true nature of reality.",
+    "release_date": "1999-03-31",
+    "runtime": 136
+  }
+]
